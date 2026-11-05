@@ -57,3 +57,6 @@ git commit -m "Fix equation"
 git log --oneline
 git revert 657c522
 ```
+### История операций
+
+![6](screenshots/6.png)
